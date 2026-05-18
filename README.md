@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là Bùi Quang Huy (Bui Quang Huy)
+# Bùi Quang Huy
 <p align="left">
   <a href="https://github.com/huybuivibecode">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=00B4FF&width=435&lines=Data+Science+Student+%F0%9F%93%8A;Data+Analyst+%F0%9F%94%8D;Problem+Solver+%F0%9F%9A%80;DUE+Student+%F0%9F%8E%93" alt="Typing SVG" />
@@ -128,8 +128,8 @@ Dưới đây là một số dự án thực tế tôi đã xây dựng và đó
 ### 📈 Thống kê GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=huybuivibecode&show_icons=true&theme=tokyonight&count_private=true" alt="Huy's GitHub Stats" height="195px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huybuivibecode&layout=compact&theme=tokyonight&hide=html,css" alt="Huy's Top Languages" height="195px" />
+  <img src="https://github-readme-stats.shion.dev/api?username=huybuivibecode&show_icons=true&theme=tokyonight&count_private=true" alt="Huy's GitHub Stats" height="195px" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=huybuivibecode&layout=compact&theme=tokyonight&hide=html,css" alt="Huy's Top Languages" height="195px" />
 </p>
 
 ---
@@ -157,4 +157,3 @@ Tôi luôn mong muốn kết nối và chia sẻ niềm đam mê về Khoa học
 <p align="center">
   <i>"Crafted with passion & code — Bùi Quang Huy © 2026"</i>
 </p>
-
